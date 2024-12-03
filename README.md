@@ -1,6 +1,8 @@
 # CV-Object-Face-Detection-Tracking
 Computer Vision Program to detect object and face, smile, eyes and track it
 
+![image](https://github.com/user-attachments/assets/c5666492-9882-47ad-88a8-630b77ac08a8)
+
 ## About the input video 
 The short video recorded is aligned with the list of MS COCO class names. The video is 13s long and it is in .mp4 format
 There are 6 objects some of them are moving and some are static 
